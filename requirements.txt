@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+tensorflow
+networkx
+osmnx
+geopandas
+polyline
+shapely
+-e .
