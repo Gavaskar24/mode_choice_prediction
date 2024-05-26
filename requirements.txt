@@ -9,4 +9,6 @@ osmnx
 geopandas
 polyline
 shapely
+pyproj
+geopandas 
 -e .    #automatically trigger setup.py
